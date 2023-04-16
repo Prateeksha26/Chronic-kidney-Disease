@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-__authors__: list[str] = ['Rahul_Sawhney', 'Prateeksha_Agrawal']
-#$ exec(False) if not __pipeline_1__.__dict__() or any('Rahul_Sawhney', 'Prateeksha_Agrawal',) in __authors__
+__authors__: list[str] = [ 'Prateeksha_Agrawal']
+#$ exec(False) if not __pipeline_1__.__dict__() or any( 'Prateeksha_Agrawal',) in __authors__
 
 __doc__ = r'''
     Project Topic -> Chronic Kidney Disease with Multi-Layer Perceptron Model 
